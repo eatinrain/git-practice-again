@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="520" viewBox="0 0 960 520">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <text x="28.0" y="38.0" font-size="22" font-weight="700" text-anchor="start" fill="#1f2937">공급업체별 발주금액</text>
+  <line x1="190" y1="74" x2="190" y2="464" stroke="#d1d5db"/>
+  <line x1="190" y1="464" x2="912" y2="464" stroke="#d1d5db"/>
+  <text x="176.0" y="102.6" font-size="13" font-weight="600" text-anchor="end" fill="#1f2937">B사 (66건)</text>
+  <rect x="190" y="74.0" width="722.0" height="42.0" rx="4" fill="#2563eb"/>
+  <text x="922.0" y="102.6" font-size="12" font-weight="400" text-anchor="start" fill="#1f2937">17.0억</text>
+  <text x="176.0" y="189.6" font-size="13" font-weight="600" text-anchor="end" fill="#1f2937">C사 (67건)</text>
+  <rect x="190" y="161.0" width="598.8" height="42.0" rx="4" fill="#2563eb"/>
+  <text x="798.8" y="189.6" font-size="12" font-weight="400" text-anchor="start" fill="#1f2937">14.1억</text>
+  <text x="176.0" y="276.6" font-size="13" font-weight="600" text-anchor="end" fill="#1f2937">A사 (74건)</text>
+  <rect x="190" y="248.0" width="365.8" height="42.0" rx="4" fill="#2563eb"/>
+  <text x="565.8" y="276.6" font-size="12" font-weight="400" text-anchor="start" fill="#1f2937">8.6억</text>
+  <text x="176.0" y="363.6" font-size="13" font-weight="600" text-anchor="end" fill="#1f2937">D사 (57건)</text>
+  <rect x="190" y="335.0" width="187.1" height="42.0" rx="4" fill="#2563eb"/>
+  <text x="387.1" y="363.6" font-size="12" font-weight="400" text-anchor="start" fill="#1f2937">4.4억</text>
+  <text x="176.0" y="450.6" font-size="13" font-weight="600" text-anchor="end" fill="#1f2937">E사 (38건)</text>
+  <rect x="190" y="422.0" width="158.9" height="42.0" rx="4" fill="#2563eb"/>
+  <text x="358.9" y="450.6" font-size="12" font-weight="400" text-anchor="start" fill="#1f2937">3.7억</text>
+</svg>

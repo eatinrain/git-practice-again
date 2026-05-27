@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="520" viewBox="0 0 960 520">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <text x="28.0" y="38.0" font-size="22" font-weight="700" text-anchor="start" fill="#1f2937">설치위치별 유지보수 비용</text>
+  <line x1="190" y1="74" x2="190" y2="464" stroke="#d1d5db"/>
+  <line x1="190" y1="464" x2="912" y2="464" stroke="#d1d5db"/>
+  <text x="176.0" y="101.4" font-size="13" font-weight="600" text-anchor="end" fill="#1f2937">생산2동 (79건)</text>
+  <rect x="190" y="74.0" width="722.0" height="40.3" rx="4" fill="#2563eb"/>
+  <text x="922.0" y="101.4" font-size="12" font-weight="400" text-anchor="start" fill="#1f2937">2701만</text>
+  <text x="176.0" y="171.3" font-size="13" font-weight="600" text-anchor="end" fill="#1f2937">조립동 (60건)</text>
+  <rect x="190" y="143.9" width="583.5" height="40.3" rx="4" fill="#2563eb"/>
+  <text x="783.5" y="171.3" font-size="12" font-weight="400" text-anchor="start" fill="#1f2937">2183만</text>
+  <text x="176.0" y="241.3" font-size="13" font-weight="600" text-anchor="end" fill="#1f2937">생산1동 (34건)</text>
+  <rect x="190" y="213.9" width="238.2" height="40.3" rx="4" fill="#2563eb"/>
+  <text x="438.2" y="241.3" font-size="12" font-weight="400" text-anchor="start" fill="#1f2937">891만</text>
+  <text x="176.0" y="311.2" font-size="13" font-weight="600" text-anchor="end" fill="#1f2937">생산3동 (31건)</text>
+  <rect x="190" y="283.8" width="175.1" height="40.3" rx="4" fill="#2563eb"/>
+  <text x="375.1" y="311.2" font-size="12" font-weight="400" text-anchor="start" fill="#1f2937">655만</text>
+  <text x="176.0" y="381.2" font-size="13" font-weight="600" text-anchor="end" fill="#1f2937">연구동 (18건)</text>
+  <rect x="190" y="353.8" width="63.4" height="40.3" rx="4" fill="#2563eb"/>
+  <text x="263.4" y="381.2" font-size="12" font-weight="400" text-anchor="start" fill="#1f2937">237만</text>
+  <text x="176.0" y="451.1" font-size="13" font-weight="600" text-anchor="end" fill="#1f2937">물류동 (7건)</text>
+  <rect x="190" y="423.7" width="41.6" height="40.3" rx="4" fill="#2563eb"/>
+  <text x="241.6" y="451.1" font-size="12" font-weight="400" text-anchor="start" fill="#1f2937">156만</text>
+</svg>

@@ -1,0 +1,192 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="520" viewBox="0 0 980 520">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <text x="28.0" y="38.0" font-size="22" font-weight="700" text-anchor="start" fill="#1f2937">주요 자재 단가 추이</text>
+  <rect x="76" y="78" width="744" height="366" fill="#f8fafc"/>
+  <line x1="76" y1="444" x2="820" y2="444" stroke="#9ca3af"/>
+  <line x1="76" y1="78" x2="76" y2="444" stroke="#9ca3af"/>
+  <line x1="76" y1="444.0" x2="820" y2="444.0" stroke="#e5e7eb"/>
+  <text x="66.0" y="448.0" font-size="11" font-weight="400" text-anchor="end" fill="#1f2937">0</text>
+  <line x1="76" y1="352.5" x2="820" y2="352.5" stroke="#e5e7eb"/>
+  <text x="66.0" y="356.5" font-size="11" font-weight="400" text-anchor="end" fill="#1f2937">20만</text>
+  <line x1="76" y1="261.0" x2="820" y2="261.0" stroke="#e5e7eb"/>
+  <text x="66.0" y="265.0" font-size="11" font-weight="400" text-anchor="end" fill="#1f2937">41만</text>
+  <line x1="76" y1="169.5" x2="820" y2="169.5" stroke="#e5e7eb"/>
+  <text x="66.0" y="173.5" font-size="11" font-weight="400" text-anchor="end" fill="#1f2937">61만</text>
+  <line x1="76" y1="78.0" x2="820" y2="78.0" stroke="#e5e7eb"/>
+  <text x="66.0" y="82.0" font-size="11" font-weight="400" text-anchor="end" fill="#1f2937">81만</text>
+  <text x="76.0" y="486.0" font-size="11" font-weight="400" text-anchor="middle" fill="#1f2937">2022-01</text>
+  <text x="153.0" y="486.0" font-size="11" font-weight="400" text-anchor="middle" fill="#1f2937">2022-06</text>
+  <text x="229.9" y="486.0" font-size="11" font-weight="400" text-anchor="middle" fill="#1f2937">2023-01</text>
+  <text x="306.9" y="486.0" font-size="11" font-weight="400" text-anchor="middle" fill="#1f2937">2023-04</text>
+  <text x="383.9" y="486.0" font-size="11" font-weight="400" text-anchor="middle" fill="#1f2937">2023-07</text>
+  <text x="460.8" y="486.0" font-size="11" font-weight="400" text-anchor="middle" fill="#1f2937">2023-10</text>
+  <text x="537.8" y="486.0" font-size="11" font-weight="400" text-anchor="middle" fill="#1f2937">2024-01</text>
+  <text x="614.8" y="486.0" font-size="11" font-weight="400" text-anchor="middle" fill="#1f2937">2024-04</text>
+  <text x="691.7" y="486.0" font-size="11" font-weight="400" text-anchor="middle" fill="#1f2937">2024-07</text>
+  <text x="768.7" y="486.0" font-size="11" font-weight="400" text-anchor="middle" fill="#1f2937">2024-10</text>
+  <polyline points="76.0,405.7 101.7,406.1 127.3,405.2 153.0,404.8 178.6,404.3 204.3,403.4 229.9,403.0 255.6,403.0 281.2,402.1 306.9,402.1 332.6,401.6 358.2,401.6 383.9,399.7 409.5,399.8 435.2,399.8 460.8,399.4 486.5,399.4 512.1,398.9 537.8,398.0 563.4,398.0 589.1,397.1 614.8,397.1 640.4,397.1 666.1,396.2 691.7,396.2 717.4,396.2 743.0,395.3 768.7,395.3 794.3,395.3 820.0,394.4" fill="none" stroke="#2563eb" stroke-width="3"/>
+  <circle cx="76.0" cy="405.7" r="3.2" fill="#2563eb"/>
+  <circle cx="101.7" cy="406.1" r="3.2" fill="#2563eb"/>
+  <circle cx="127.3" cy="405.2" r="3.2" fill="#2563eb"/>
+  <circle cx="153.0" cy="404.8" r="3.2" fill="#2563eb"/>
+  <circle cx="178.6" cy="404.3" r="3.2" fill="#2563eb"/>
+  <circle cx="204.3" cy="403.4" r="3.2" fill="#2563eb"/>
+  <circle cx="229.9" cy="403.0" r="3.2" fill="#2563eb"/>
+  <circle cx="255.6" cy="403.0" r="3.2" fill="#2563eb"/>
+  <circle cx="281.2" cy="402.1" r="3.2" fill="#2563eb"/>
+  <circle cx="306.9" cy="402.1" r="3.2" fill="#2563eb"/>
+  <circle cx="332.6" cy="401.6" r="3.2" fill="#2563eb"/>
+  <circle cx="358.2" cy="401.6" r="3.2" fill="#2563eb"/>
+  <circle cx="383.9" cy="399.7" r="3.2" fill="#2563eb"/>
+  <circle cx="409.5" cy="399.8" r="3.2" fill="#2563eb"/>
+  <circle cx="435.2" cy="399.8" r="3.2" fill="#2563eb"/>
+  <circle cx="460.8" cy="399.4" r="3.2" fill="#2563eb"/>
+  <circle cx="486.5" cy="399.4" r="3.2" fill="#2563eb"/>
+  <circle cx="512.1" cy="398.9" r="3.2" fill="#2563eb"/>
+  <circle cx="537.8" cy="398.0" r="3.2" fill="#2563eb"/>
+  <circle cx="563.4" cy="398.0" r="3.2" fill="#2563eb"/>
+  <circle cx="589.1" cy="397.1" r="3.2" fill="#2563eb"/>
+  <circle cx="614.8" cy="397.1" r="3.2" fill="#2563eb"/>
+  <circle cx="640.4" cy="397.1" r="3.2" fill="#2563eb"/>
+  <circle cx="666.1" cy="396.2" r="3.2" fill="#2563eb"/>
+  <circle cx="691.7" cy="396.2" r="3.2" fill="#2563eb"/>
+  <circle cx="717.4" cy="396.2" r="3.2" fill="#2563eb"/>
+  <circle cx="743.0" cy="395.3" r="3.2" fill="#2563eb"/>
+  <circle cx="768.7" cy="395.3" r="3.2" fill="#2563eb"/>
+  <circle cx="794.3" cy="395.3" r="3.2" fill="#2563eb"/>
+  <circle cx="820.0" cy="394.4" r="3.2" fill="#2563eb"/>
+  <rect x="846" y="68" width="14" height="14" fill="#2563eb"/>
+  <text x="868.0" y="80.0" font-size="12" font-weight="600" text-anchor="start" fill="#1f2937">강판</text>
+  <polyline points="76.0,299.8 101.7,297.5 127.3,295.3 153.0,291.7 178.6,288.5 204.3,285.3 229.9,278.1 255.6,276.3 281.2,271.8 306.9,269.1 332.6,264.6 358.2,256.9 383.9,247.9 409.5,235.8 435.2,238.9 460.8,241.2 486.5,243.4 512.1,244.8 537.8,242.1 563.4,241.2 589.1,238.9 614.8,237.6 640.4,236.7 666.1,235.8 691.7,234.4 717.4,233.1 743.0,233.1 768.7,232.2 794.3,231.3 820.0,229.9" fill="none" stroke="#dc2626" stroke-width="3"/>
+  <circle cx="76.0" cy="299.8" r="3.2" fill="#dc2626"/>
+  <circle cx="101.7" cy="297.5" r="3.2" fill="#dc2626"/>
+  <circle cx="127.3" cy="295.3" r="3.2" fill="#dc2626"/>
+  <circle cx="153.0" cy="291.7" r="3.2" fill="#dc2626"/>
+  <circle cx="178.6" cy="288.5" r="3.2" fill="#dc2626"/>
+  <circle cx="204.3" cy="285.3" r="3.2" fill="#dc2626"/>
+  <circle cx="229.9" cy="278.1" r="3.2" fill="#dc2626"/>
+  <circle cx="255.6" cy="276.3" r="3.2" fill="#dc2626"/>
+  <circle cx="281.2" cy="271.8" r="3.2" fill="#dc2626"/>
+  <circle cx="306.9" cy="269.1" r="3.2" fill="#dc2626"/>
+  <circle cx="332.6" cy="264.6" r="3.2" fill="#dc2626"/>
+  <circle cx="358.2" cy="256.9" r="3.2" fill="#dc2626"/>
+  <circle cx="383.9" cy="247.9" r="3.2" fill="#dc2626"/>
+  <circle cx="409.5" cy="235.8" r="3.2" fill="#dc2626"/>
+  <circle cx="435.2" cy="238.9" r="3.2" fill="#dc2626"/>
+  <circle cx="460.8" cy="241.2" r="3.2" fill="#dc2626"/>
+  <circle cx="486.5" cy="243.4" r="3.2" fill="#dc2626"/>
+  <circle cx="512.1" cy="244.8" r="3.2" fill="#dc2626"/>
+  <circle cx="537.8" cy="242.1" r="3.2" fill="#dc2626"/>
+  <circle cx="563.4" cy="241.2" r="3.2" fill="#dc2626"/>
+  <circle cx="589.1" cy="238.9" r="3.2" fill="#dc2626"/>
+  <circle cx="614.8" cy="237.6" r="3.2" fill="#dc2626"/>
+  <circle cx="640.4" cy="236.7" r="3.2" fill="#dc2626"/>
+  <circle cx="666.1" cy="235.8" r="3.2" fill="#dc2626"/>
+  <circle cx="691.7" cy="234.4" r="3.2" fill="#dc2626"/>
+  <circle cx="717.4" cy="233.1" r="3.2" fill="#dc2626"/>
+  <circle cx="743.0" cy="233.1" r="3.2" fill="#dc2626"/>
+  <circle cx="768.7" cy="232.2" r="3.2" fill="#dc2626"/>
+  <circle cx="794.3" cy="231.3" r="3.2" fill="#dc2626"/>
+  <circle cx="820.0" cy="229.9" r="3.2" fill="#dc2626"/>
+  <rect x="846" y="92" width="14" height="14" fill="#dc2626"/>
+  <text x="868.0" y="104.0" font-size="12" font-weight="600" text-anchor="start" fill="#1f2937">구리선</text>
+  <polyline points="76.0,431.4 101.7,431.2 127.3,431.4 153.0,430.9 178.6,430.7 204.3,430.9 229.9,430.5 255.6,430.5 281.2,430.3 306.9,430.3 332.6,430.0 358.2,430.0 383.9,429.8 409.5,429.6 435.2,429.6 460.8,429.6 486.5,429.6 512.1,429.4 537.8,429.1 563.4,429.1 589.1,428.9 614.8,428.9 640.4,428.9 666.1,428.8 691.7,428.8 717.4,428.8 743.0,428.4 768.7,428.4 794.3,428.4 820.0,428.2" fill="none" stroke="#059669" stroke-width="3"/>
+  <circle cx="76.0" cy="431.4" r="3.2" fill="#059669"/>
+  <circle cx="101.7" cy="431.2" r="3.2" fill="#059669"/>
+  <circle cx="127.3" cy="431.4" r="3.2" fill="#059669"/>
+  <circle cx="153.0" cy="430.9" r="3.2" fill="#059669"/>
+  <circle cx="178.6" cy="430.7" r="3.2" fill="#059669"/>
+  <circle cx="204.3" cy="430.9" r="3.2" fill="#059669"/>
+  <circle cx="229.9" cy="430.5" r="3.2" fill="#059669"/>
+  <circle cx="255.6" cy="430.5" r="3.2" fill="#059669"/>
+  <circle cx="281.2" cy="430.3" r="3.2" fill="#059669"/>
+  <circle cx="306.9" cy="430.3" r="3.2" fill="#059669"/>
+  <circle cx="332.6" cy="430.0" r="3.2" fill="#059669"/>
+  <circle cx="358.2" cy="430.0" r="3.2" fill="#059669"/>
+  <circle cx="383.9" cy="429.8" r="3.2" fill="#059669"/>
+  <circle cx="409.5" cy="429.6" r="3.2" fill="#059669"/>
+  <circle cx="435.2" cy="429.6" r="3.2" fill="#059669"/>
+  <circle cx="460.8" cy="429.6" r="3.2" fill="#059669"/>
+  <circle cx="486.5" cy="429.6" r="3.2" fill="#059669"/>
+  <circle cx="512.1" cy="429.4" r="3.2" fill="#059669"/>
+  <circle cx="537.8" cy="429.1" r="3.2" fill="#059669"/>
+  <circle cx="563.4" cy="429.1" r="3.2" fill="#059669"/>
+  <circle cx="589.1" cy="428.9" r="3.2" fill="#059669"/>
+  <circle cx="614.8" cy="428.9" r="3.2" fill="#059669"/>
+  <circle cx="640.4" cy="428.9" r="3.2" fill="#059669"/>
+  <circle cx="666.1" cy="428.8" r="3.2" fill="#059669"/>
+  <circle cx="691.7" cy="428.8" r="3.2" fill="#059669"/>
+  <circle cx="717.4" cy="428.8" r="3.2" fill="#059669"/>
+  <circle cx="743.0" cy="428.4" r="3.2" fill="#059669"/>
+  <circle cx="768.7" cy="428.4" r="3.2" fill="#059669"/>
+  <circle cx="794.3" cy="428.4" r="3.2" fill="#059669"/>
+  <circle cx="820.0" cy="428.2" r="3.2" fill="#059669"/>
+  <rect x="846" y="116" width="14" height="14" fill="#059669"/>
+  <text x="868.0" y="128.0" font-size="12" font-weight="600" text-anchor="start" fill="#1f2937">볼베어링</text>
+  <polyline points="76.0,378.6 101.7,379.5 127.3,378.2 153.0,377.3 178.6,376.8 204.3,375.9 229.9,375.5 255.6,375.5 281.2,374.1 306.9,374.1 332.6,373.7 358.2,373.7 383.9,372.8 409.5,372.3 435.2,372.3 460.8,371.9 486.5,371.9 512.1,371.0 537.8,370.1 563.4,370.1 589.1,369.2 614.8,369.2 640.4,369.2 666.1,368.3 691.7,368.3 717.4,368.3 743.0,367.4 768.7,367.4 794.3,367.4 820.0,366.5" fill="none" stroke="#7c3aed" stroke-width="3"/>
+  <circle cx="76.0" cy="378.6" r="3.2" fill="#7c3aed"/>
+  <circle cx="101.7" cy="379.5" r="3.2" fill="#7c3aed"/>
+  <circle cx="127.3" cy="378.2" r="3.2" fill="#7c3aed"/>
+  <circle cx="153.0" cy="377.3" r="3.2" fill="#7c3aed"/>
+  <circle cx="178.6" cy="376.8" r="3.2" fill="#7c3aed"/>
+  <circle cx="204.3" cy="375.9" r="3.2" fill="#7c3aed"/>
+  <circle cx="229.9" cy="375.5" r="3.2" fill="#7c3aed"/>
+  <circle cx="255.6" cy="375.5" r="3.2" fill="#7c3aed"/>
+  <circle cx="281.2" cy="374.1" r="3.2" fill="#7c3aed"/>
+  <circle cx="306.9" cy="374.1" r="3.2" fill="#7c3aed"/>
+  <circle cx="332.6" cy="373.7" r="3.2" fill="#7c3aed"/>
+  <circle cx="358.2" cy="373.7" r="3.2" fill="#7c3aed"/>
+  <circle cx="383.9" cy="372.8" r="3.2" fill="#7c3aed"/>
+  <circle cx="409.5" cy="372.3" r="3.2" fill="#7c3aed"/>
+  <circle cx="435.2" cy="372.3" r="3.2" fill="#7c3aed"/>
+  <circle cx="460.8" cy="371.9" r="3.2" fill="#7c3aed"/>
+  <circle cx="486.5" cy="371.9" r="3.2" fill="#7c3aed"/>
+  <circle cx="512.1" cy="371.0" r="3.2" fill="#7c3aed"/>
+  <circle cx="537.8" cy="370.1" r="3.2" fill="#7c3aed"/>
+  <circle cx="563.4" cy="370.1" r="3.2" fill="#7c3aed"/>
+  <circle cx="589.1" cy="369.2" r="3.2" fill="#7c3aed"/>
+  <circle cx="614.8" cy="369.2" r="3.2" fill="#7c3aed"/>
+  <circle cx="640.4" cy="369.2" r="3.2" fill="#7c3aed"/>
+  <circle cx="666.1" cy="368.3" r="3.2" fill="#7c3aed"/>
+  <circle cx="691.7" cy="368.3" r="3.2" fill="#7c3aed"/>
+  <circle cx="717.4" cy="368.3" r="3.2" fill="#7c3aed"/>
+  <circle cx="743.0" cy="367.4" r="3.2" fill="#7c3aed"/>
+  <circle cx="768.7" cy="367.4" r="3.2" fill="#7c3aed"/>
+  <circle cx="794.3" cy="367.4" r="3.2" fill="#7c3aed"/>
+  <circle cx="820.0" cy="366.5" r="3.2" fill="#7c3aed"/>
+  <rect x="846" y="140" width="14" height="14" fill="#7c3aed"/>
+  <text x="868.0" y="152.0" font-size="12" font-weight="600" text-anchor="start" fill="#1f2937">알루미늄판</text>
+  <polyline points="76.0,182.6 101.7,181.7 127.3,180.3 153.0,177.2 178.6,174.5 204.3,171.3 229.9,162.3 255.6,160.0 281.2,151.9 306.9,150.1 332.6,144.3 358.2,135.2 383.9,124.0 409.5,108.2 435.2,118.6 460.8,115.0 486.5,121.7 512.1,120.4 537.8,109.6 563.4,106.8 589.1,102.3 614.8,100.5 640.4,96.9 666.1,93.3 691.7,91.5 717.4,88.8 743.0,85.7 768.7,83.4 794.3,80.7 820.0,78.0" fill="none" stroke="#d97706" stroke-width="3"/>
+  <circle cx="76.0" cy="182.6" r="3.2" fill="#d97706"/>
+  <circle cx="101.7" cy="181.7" r="3.2" fill="#d97706"/>
+  <circle cx="127.3" cy="180.3" r="3.2" fill="#d97706"/>
+  <circle cx="153.0" cy="177.2" r="3.2" fill="#d97706"/>
+  <circle cx="178.6" cy="174.5" r="3.2" fill="#d97706"/>
+  <circle cx="204.3" cy="171.3" r="3.2" fill="#d97706"/>
+  <circle cx="229.9" cy="162.3" r="3.2" fill="#d97706"/>
+  <circle cx="255.6" cy="160.0" r="3.2" fill="#d97706"/>
+  <circle cx="281.2" cy="151.9" r="3.2" fill="#d97706"/>
+  <circle cx="306.9" cy="150.1" r="3.2" fill="#d97706"/>
+  <circle cx="332.6" cy="144.3" r="3.2" fill="#d97706"/>
+  <circle cx="358.2" cy="135.2" r="3.2" fill="#d97706"/>
+  <circle cx="383.9" cy="124.0" r="3.2" fill="#d97706"/>
+  <circle cx="409.5" cy="108.2" r="3.2" fill="#d97706"/>
+  <circle cx="435.2" cy="118.6" r="3.2" fill="#d97706"/>
+  <circle cx="460.8" cy="115.0" r="3.2" fill="#d97706"/>
+  <circle cx="486.5" cy="121.7" r="3.2" fill="#d97706"/>
+  <circle cx="512.1" cy="120.4" r="3.2" fill="#d97706"/>
+  <circle cx="537.8" cy="109.6" r="3.2" fill="#d97706"/>
+  <circle cx="563.4" cy="106.8" r="3.2" fill="#d97706"/>
+  <circle cx="589.1" cy="102.3" r="3.2" fill="#d97706"/>
+  <circle cx="614.8" cy="100.5" r="3.2" fill="#d97706"/>
+  <circle cx="640.4" cy="96.9" r="3.2" fill="#d97706"/>
+  <circle cx="666.1" cy="93.3" r="3.2" fill="#d97706"/>
+  <circle cx="691.7" cy="91.5" r="3.2" fill="#d97706"/>
+  <circle cx="717.4" cy="88.8" r="3.2" fill="#d97706"/>
+  <circle cx="743.0" cy="85.7" r="3.2" fill="#d97706"/>
+  <circle cx="768.7" cy="83.4" r="3.2" fill="#d97706"/>
+  <circle cx="794.3" cy="80.7" r="3.2" fill="#d97706"/>
+  <circle cx="820.0" cy="78.0" r="3.2" fill="#d97706"/>
+  <rect x="846" y="164" width="14" height="14" fill="#d97706"/>
+  <text x="868.0" y="176.0" font-size="12" font-weight="600" text-anchor="start" fill="#1f2937">특수합금</text>
+</svg>

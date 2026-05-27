@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <title>데이터 분석 실습자료 시각화 리포트</title>
+  <style>
+    body { margin: 0; font-family: Arial, 'Malgun Gothic', sans-serif; color: #111827; background: #f3f4f6; }
+    main { max-width: 1120px; margin: 0 auto; padding: 36px 24px 56px; }
+    header { margin-bottom: 24px; }
+    h1 { margin: 0 0 8px; font-size: 30px; }
+    h2 { margin: 0 0 8px; font-size: 20px; }
+    p { line-height: 1.6; }
+    .kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 12px; margin: 22px 0 28px; }
+    .kpis div { background: white; border: 1px solid #e5e7eb; border-radius: 8px; padding: 14px 16px; }
+    .kpis strong { display: block; font-size: 13px; color: #4b5563; margin-bottom: 8px; }
+    .kpis span { font-size: 18px; font-weight: 700; }
+    .chart { background: white; border: 1px solid #e5e7eb; border-radius: 8px; padding: 18px; margin: 16px 0; }
+    .chart img { width: 100%; height: auto; display: block; margin-top: 10px; }
+    .questions { background: #111827; color: white; border-radius: 8px; padding: 20px 24px; margin-top: 20px; }
+  </style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>데이터 분석 실습자료 시각화 리포트</h1>
+    <p>두 CSV를 구매비용 관리와 설비 리스크 관리 관점으로 해석하는 교육용 시각화 자료입니다.</p>
+  </header>
+  <div class="kpis"><div><strong>자재 데이터</strong><span>302행</span></div>
+<div><strong>유지보수 데이터</strong><span>229행</span></div>
+<div><strong>총 발주금액</strong><span>47.9억원</span></div>
+<div><strong>총 유지보수 비용</strong><span>6823만원</span></div>
+<div><strong>최대 구매 카테고리</strong><span>금속재료</span></div>
+<div><strong>최대 비용 이상유형</strong><span>베어링마모</span></div></div>
+  <section class="chart">
+  <h2>자재 월별 총 발주금액</h2>
+  <p>월별 흐름으로 예산 변동 구간을 찾습니다.</p>
+  <img src="charts/01_material_monthly_amount.svg" alt="자재 월별 총 발주금액">
+</section>
+<section class="chart">
+  <h2>카테고리별 총 발주금액</h2>
+  <p>금속재료가 가장 큰 구매비 관리 대상입니다.</p>
+  <img src="charts/02_material_category_amount.svg" alt="카테고리별 총 발주금액">
+</section>
+<section class="chart">
+  <h2>공급업체별 발주금액</h2>
+  <p>비용 규모가 큰 공급업체를 우선 관리합니다.</p>
+  <img src="charts/03_material_supplier_amount.svg" alt="공급업체별 발주금액">
+</section>
+<section class="chart">
+  <h2>주요 자재 단가 추이</h2>
+  <p>상위 품목의 단가 상승 리스크를 확인합니다.</p>
+  <img src="charts/04_material_item_price_trend.svg" alt="주요 자재 단가 추이">
+</section>
+<section class="chart">
+  <h2>월별 유지보수 비용</h2>
+  <p>발생 건수와 비용 흐름을 함께 봅니다.</p>
+  <img src="charts/05_maintenance_monthly_cost.svg" alt="월별 유지보수 비용">
+</section>
+<section class="chart">
+  <h2>이상유형별 비용 Pareto</h2>
+  <p>베어링마모와 모터과열이 우선 관리 대상입니다.</p>
+  <img src="charts/06_maintenance_type_pareto.svg" alt="이상유형별 비용 Pareto">
+</section>
+<section class="chart">
+  <h2>설치위치별 유지보수 비용</h2>
+  <p>생산2동과 조립동에 비용이 집중됩니다.</p>
+  <img src="charts/07_maintenance_location_cost.svg" alt="설치위치별 유지보수 비용">
+</section>
+<section class="chart">
+  <h2>수리시간과 비용 관계</h2>
+  <p>고비용/장시간 사건을 찾아 리뷰합니다.</p>
+  <img src="charts/08_maintenance_repair_scatter.svg" alt="수리시간과 비용 관계">
+</section>
+<section class="chart">
+  <h2>부품교체 여부별 평균 비용</h2>
+  <p>부품교체 수리의 비용 영향을 확인합니다.</p>
+  <img src="charts/09_maintenance_part_avg_cost.svg" alt="부품교체 여부별 평균 비용">
+</section>
+  <section class="questions">
+    <h2>실습 마무리 질문</h2>
+    <p>구매비 관리 대상 1개, 유지보수 우선 관리 대상 1개, 다음 달 운영 개선 액션 2~3개를 적어보세요.</p>
+  </section>
+</main>
+</body>
+</html>
